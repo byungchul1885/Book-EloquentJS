@@ -7,6 +7,7 @@ class GroupIterator {
   }
 
   next() {
+    // test
     if (this.currIdx === this.group.arrSet.length) {
       return { done: true };
     } else {
