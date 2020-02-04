@@ -8,6 +8,7 @@ class Group {
     //   console.log(`x:${x}, y:${y}`);
   }
 
+  /* this is test for git */
   static from(inArr) {
     // console.log(`inRange:${inArr}`);
 
