@@ -11,7 +11,7 @@ class Vec {
   }
 
   minus(vecMinus) {
-    this.x -= vecMinus.x;
+    this.x -= vecMinus.x; /* this is just git test */
     this.y -= vecMinus.y;
     return this;
   }
