@@ -3,7 +3,7 @@ class GroupIterator {
     this.currIdx = 0;
     this.group = group;
 
-    console.log(`a:${this.group.arrSet.length}`);
+    console.log(`a:${this.group.arrSet.length}`); /* test for git */
   }
 
   next() {
